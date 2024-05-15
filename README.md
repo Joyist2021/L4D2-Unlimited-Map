@@ -1,6 +1,6 @@
 # L4D2-Unlimited-Map 終極地圖
 v1.6
-hint_caption 替换中文
+hint_caption use_string use_sub_string替换中文
 
 Original L4D2 maps are modified in this config. Create the Unlimited Map.
 
