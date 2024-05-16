@@ -2,7 +2,7 @@
 v1.6
 hint_caption use_string use_sub_string替换中文
 
-meta list	meta version    	sm version	
+'meta list'	'meta version'    	'sm version'	
 
 
 
