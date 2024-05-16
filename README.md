@@ -2,6 +2,12 @@
 v1.6
 hint_caption use_string use_sub_string替换中文
 
+### 依赖于：
+stripper-1.2.2-git141-windows.zip
+https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-git141-windows.zip
+stripper-1.2.2-git141-linux .zip
+https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-git141-linux.tar.gz
+
 Original L4D2 maps are modified in this config. Create the Unlimited Map.
 
 Based on [Sky cfg](https://github.com/Attano/Sky)、[Sparta maps](https://forums.alliedmods.net/showthread.php?p=2670634) and all contributors in [AlliedModders](https://forums.alliedmods.net/showthread.php?t=331792)
