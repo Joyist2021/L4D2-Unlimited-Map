@@ -3,9 +3,9 @@ v1.6
 hint_caption use_string use_sub_string替换中文
 
 ### 依赖于：
-[stripper-1.2.2-git141-windows.zip] (https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-git141-windows.zip)
+[stripper-1.2.2-git141-windows.zip](https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-git141-windows.zip)
 
-[stripper-1.2.2-git141-linux .zip] (https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-git141-linux.tar.gz)
+[stripper-1.2.2-git141-linux .zip](https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-git141-linux.tar.gz)
 
 
 
